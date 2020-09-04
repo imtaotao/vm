@@ -1,3 +1,11 @@
+import {
+  script,
+  isContext,
+  createContext,
+} from './apis.js'
+
 export default {
-  a: 1
+  script,
+  isContext,
+  createContext,
 }
